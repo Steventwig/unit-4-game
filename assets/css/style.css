@@ -1,0 +1,41 @@
+
+body {
+    background-image: url("../images/bg2.jpg");
+  }
+
+#banner {
+    background-color: #cb6f35;
+    margin: 5px !important;
+}
+
+#rules {
+    background-color: #fbe6cf;
+    margin: 5px !important;
+    height: 400px;
+    padding-top: 10px;
+    color: green;
+}
+#compNumb {
+    background-color: #53c987;
+    margin: 5px !important;
+    height: 100px;
+    color: black;
+}
+#winLose {
+    background-color: #3afefd;
+    margin: 5px !important;
+    height: 100px;
+    margin-left: 5px;
+    color: black;
+}
+
+#scoreLable {
+    background-color: #1fa495;
+    margin: 5px !important;
+}
+#scoreScreen {
+    background-color: #1fa495;
+    margin: 5px !important;
+    height: 100px;
+    color: black;
+}
