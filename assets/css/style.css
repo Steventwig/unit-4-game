@@ -5,7 +5,10 @@ body {
 
 #banner {
     background-color: #cb6f35;
-    margin: 5px !important;
+    margin-top: 10px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 50%;
 }
 
 #rules {
@@ -38,4 +41,9 @@ body {
     margin: 5px !important;
     height: 100px;
     color: black;
+}
+.crystal-img{
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 25px;
 }
